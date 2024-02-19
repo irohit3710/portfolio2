@@ -10,7 +10,6 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@hotjar/browser": "^1.0.9",
     "i": "^0.3.7",
     "lottie-react": "^2.4.0",
     "npm": "^10.4.0",
