@@ -8,6 +8,7 @@ import Contact from './components/contact/Contact.jsx';
 import Project from './components/projects/Project';
 
 
+
 function App() {
   return (
     <div className="w-full h-auto bg-bodyColor text-lightText ">

@@ -1,4 +1,4 @@
-import { FaGithub } from "react-icons/fa"
+import { FaGithub } from "react-icons/fa" 
 import { SiCodechef, SiCodeforces, SiGeeksforgeeks, SiLeetcode } from "react-icons/si";
 
 const data = [
@@ -13,7 +13,7 @@ const data = [
         _id:101,
         title:"LeetCode",
         text:"LeetCode: Unlocking the door to coding mastery through continuous practice and challenging puzzles.",
-        link:"https://leetcode.com/its_rohit_3710/",
+        link:"https://leetcode.com/u/its_rohit_3710/",
         icon:<SiLeetcode/>
     },
     {
