@@ -1,4 +1,4 @@
-import { FaGithub } from "react-icons/fa"
+import { FaGithub } from "react-icons/fa" 
 import { SiCodechef, SiCodeforces, SiGeeksforgeeks, SiLeetcode } from "react-icons/si";
 
 const data = [
