@@ -13,7 +13,7 @@ const data = [
         _id:101,
         title:"LeetCode",
         text:"LeetCode: Unlocking the door to coding mastery through continuous practice and challenging puzzles.",
-        link:"https://leetcode.com/its_rohit_m/",
+        link:"https://leetcode.com/its_rohit_3710/",
         icon:<SiLeetcode/>
     },
     {
